@@ -1,4 +1,4 @@
-package cn.lagrahhn.Arrays;
+package cn.lagrahhn.java8.Arrays;
 
 public class ArraysExample {
     public static void main(String[] args) {

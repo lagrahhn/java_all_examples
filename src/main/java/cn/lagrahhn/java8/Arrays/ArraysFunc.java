@@ -1,4 +1,4 @@
-package cn.lagrahhn.Arrays;
+package cn.lagrahhn.java8.Arrays;
 
 import java.util.Arrays;
 import java.util.List;
